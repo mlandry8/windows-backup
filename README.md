@@ -2,7 +2,7 @@
 
 Script for performing a mirrored Windows backup utilising Robocopy
 
-!!*WARNING*!! This script will delete files in the destination directories that do not exist in their respective source directory. Please ensure you have configured the `directory.txt` file correctly and test using the `--dry-run` flag
+***!!WARNING!!*** This script will delete files in the destination directories that do not exist in their respective source directory. Please ensure you have configured the `directory.txt` file correctly and test using the `--dry-run` flag
 
 ## Usage
 
@@ -32,4 +32,4 @@ Finally you can run a live backup.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
